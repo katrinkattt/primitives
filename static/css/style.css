@@ -70,14 +70,6 @@ section{
     padding-bottom: 10px;
 }
 
-/* .cub{
-    height: 50px;
-    width: 50px;
-    background-color: green;
-    border: 1x solid #000000;
-    cursor: move; 
-    position: absolute;
-} */
 
 .butt{
     display: flex;
@@ -207,9 +199,4 @@ section{
     width:50px;
     background-color: #f1e9e9;
 }
-/* .block0::after{
-    content: '.';
-    display: block; 
-    clear: both;
-    visibility: hidden; 
- } */
+
